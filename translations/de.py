@@ -18,13 +18,13 @@ RESULT_SORRY = "Entschuldigung, es ist ein Fehler aufgetragen. Bitte schau die d
 RESULT_SORRY_PERMISSIONS = "Entschuldigung, Ich konnte die Berechtigung zum Ausführen der Datei nicht ändern."
 
 # Intents
-INTENT_CONFIRM_REBOOT = 'Philipp:ConfirmReboot'
-INTENT_CONFIRM_SHUTDOWN = 'Philipp:ConfirmShutdown'
-INTENT_DISABLE_APP = 'Philipp:DisableApp'
-INTENT_ENABLE_APP = 'Philipp:EnableApp'
-INTENT_REBOOT = 'Philipp:Reboot'
-INTENT_RESTART_SERVICE = 'Philipp:RestartService'
-INTENT_SHUTDOWN = 'Philipp:Shutdown'
+INTENT_CONFIRM_REBOOT = 'kleintody:ConfirmReboot'
+INTENT_CONFIRM_SHUTDOWN = 'kleintody:ConfirmShutdown'
+INTENT_DISABLE_APP = 'kleintody:DisableApp'
+INTENT_ENABLE_APP = 'kleintody:EnableApp'
+INTENT_REBOOT = 'kleintody:Reboot'
+INTENT_RESTART_SERVICE = 'kleintody:RestartService'
+INTENT_SHUTDOWN = 'kleintody:Shutdown'
 
 # Slot types
 SLOT_TYPE_APP = 'Philipp/snips-app'
